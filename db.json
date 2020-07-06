@@ -1,4 +1,7 @@
 {
-	"ref":1,
-	"label":"Besm Allah"
+  "articles": [
+    { "ref": 1, "label": "Besm Allah!" },
+    { "ref": 2, "label": "label 2" },
+    { "ref": 3, "label": "label 3" }
+  ]
 }
