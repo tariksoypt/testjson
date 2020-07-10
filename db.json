@@ -1,7 +1,49 @@
 {
   "articles": [
-    { "id": 1, "label": "Besm Allah!" },
-    { "id": 2, "label": "label 2" },
-    { "id": 3, "label": "label 3" }
+    { 
+		"id": 1,
+		"label": "Morfose sac spray",
+		"designation":"disign",
+		"type":"pro",
+		"prix":
+		{
+			"public":250,
+			"salon":200,
+			"parfumerie":210,
+			"para":220
+		},
+		"image":"https://www.morfose.eu/wp-content/uploads/2016/09/Morfose-Sac-Spreyi-1.jpg",
+		"famille":"spray"
+	},
+	{ 
+		"id": 2,
+		"label": "Morfose Living Hair Tones",
+		"designation":"disign",
+		"type":"pro",
+		"prix":
+		{
+			"public":499,
+			"salon":480,
+			"parfumerie":465,
+			"para":438
+		},
+		"image":"https://www.morfose.eu/wp-content/uploads/2016/09/Morfose10-banner.jpg",
+		"famille":"color"
+	},
+	{ 
+		"id": 3,
+		"label": "Milk Therapy Fuar",
+		"designation":"disign",
+		"type":"normal",
+		"prix":
+		{
+			"public":245,
+			"salon":220,
+			"parfumerie":220,
+			"para":235
+		},
+		"image":"https://www.morfose.eu/wp-content/uploads/2016/09/Milk-Therapy-Fuar.jpg",
+		"famille":"cream"
+	},
   ]
 }
